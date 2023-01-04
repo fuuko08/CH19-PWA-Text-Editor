@@ -2,7 +2,21 @@
 
   [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
+## Table of Contents
+  * [Descriptiom](#description)
+  * [Instruction](#instruction)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Contributing](#contributing)
+  * [Questions](#questions)
+  
+<a name="description"/>
+
 ## Description
+
+My text editor is a single page application that runs in the browser and meets PWA criteria. The app works online and offline. I use `idb`, which is a lightweight wrapper around the indexedDB API. It features a number of methods that are useful for storing and retrieving data, and is used by companies like Google and Mozilla.
+
+Live deployed link: 
 
 ### User story
 ```
@@ -40,15 +54,6 @@ WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 ```
 
-## Table of Contents
-
-  * [Instruction](#instruction)
-  * [Usage](#usage)
-  * [License](#license)
-  * [Contributing](#contributing)
-  * [Testing](#testing)
-  * [Questions](#questions)
-
 <a name="instruction"/>
 
 ## Instruction
@@ -83,12 +88,8 @@ Copyright (c) 2022 fuuko08
 
 ## Contributing
 
- 
-
-<a name="testing"/>
-
-## Testing
-
+* Heroku
+* Github
 
 <a name="questions"/>
 
