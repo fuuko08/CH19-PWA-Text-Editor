@@ -58,7 +58,9 @@ THEN I should have proper build scripts for a webpack application
 
 ## Instruction
 
+To start the app, run the command: 
 
+```npm run start:dev```
 
 <a name="usage"/>
 
