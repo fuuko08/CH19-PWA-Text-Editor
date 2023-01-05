@@ -64,7 +64,11 @@ THEN I should have proper build scripts for a webpack application
 
 ## Usage
 
-
+* Javascript
+* Webpack: Service workers, manifest
+* IndexedDb
+* Node.js
+* Express.js
 
 <a name="license"/>
 
