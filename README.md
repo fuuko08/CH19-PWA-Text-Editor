@@ -63,6 +63,8 @@ THEN I should have proper build scripts for a webpack application
 
 ## Instruction
 
+After downloading to your local device, please run the command ```npm install``` to install packages
+
 To start the app, run the command: 
 
 ```npm run start:dev```
