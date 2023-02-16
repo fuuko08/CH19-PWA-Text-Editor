@@ -63,18 +63,18 @@ THEN I should have proper build scripts for a webpack application
 
 ## Instruction
 
-After downloading to your local device, please run the command ```npm install``` to install packages
+To download app, run to command: ```git clone https://github.com/fuuko08/PWA-Text-Editor.git```
 
-To start the app, run the command: 
+Run the command ```npm install``` to install packages
 
-```npm run start:dev```
+To start the app, run the command: ```npm run start:dev```
 
 <a name="usage"/>
 
 ## Usage
 
 * Javascript
-* Webpack: Service workers, manifest
+* Webpack: Service workers, manifest.json
 * IndexedDb
 * Node.js
 * Express.js
@@ -108,10 +108,10 @@ Copyright (c) 2022 fuuko08
 
 ## Questions
 
-* Email me for more information @:
+* Linkedin: https://www.linkedin.com/in/selinatpsu/
 
-phongsu20@gmail.com
+* Email: suselina08@gmail.com
 
-* Check out my other projects on Github @:
+* Github: https://www.github.com/fuuko08
 
-https://www.github.com/fuuko08
+* Portfolio: https://fuuko08.github.io/React-Portfolio/
